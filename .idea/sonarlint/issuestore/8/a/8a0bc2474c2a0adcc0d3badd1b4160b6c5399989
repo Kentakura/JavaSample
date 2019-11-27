@@ -1,0 +1,5 @@
+
+Jsquid:S1481",Remove this unused "number2" local variable.(Êôû‹8…¯á¡è-
+qsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Æ·Áƒþÿÿÿÿ8ÿªÿ˜è-
+9squid:S3626"Remove this redundant jump.(ûÁÝ…8òž×˜è-
+Ysquid:S1854";Remove this useless assignment to local variable "number2".(Êôû‹8…¯á¡è-
