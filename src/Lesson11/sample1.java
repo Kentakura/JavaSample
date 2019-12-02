@@ -1,3 +1,5 @@
+package Lesson11;
+
 import static java.lang.System.*;
 
 class MyPoint{
